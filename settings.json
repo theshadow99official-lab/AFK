@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "hardcoresmpop.play.hosting",
+    "ip": "versesmpop.play.hosting",
     "port": 25565,
     "version": "",
     "try-creative": false
